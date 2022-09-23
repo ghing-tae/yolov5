@@ -1,0 +1,7 @@
+path: /content/datasets/food
+train: images/train
+val: images/train
+test: 
+
+nc: 5
+names: ['burger', 'fries', 'pasta', 'pizza', 'sandwich']
